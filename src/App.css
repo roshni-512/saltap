@@ -1,0 +1,220 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+#nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 7%;
+  width: 100%;
+ 
+ 
+  padding: 0px 30px;
+  
+  background-color: #0fab60;
+}
+
+#nav>div{
+  padding: 10px 20px;
+  border-radius: 50px;
+
+  border: none;
+  display: flex;
+}
+.landingtext-style1{
+  font-family:" Alfa Slab One";
+}
+@media screen and (max-width: 600px) {
+  .mobview{
+    color:'black';
+    font-size: 75.6px !important;
+    line-height: 68.6px !important;
+    font-weight: 400;
+  }
+}
+@media screen and (max-width: 600px) {
+  #btn{
+    
+    font-size: 15px !important;
+    width: 45% !important;
+  }
+}
+@media screen and (max-width: 600px) {
+  #btn1{
+    
+    font-size: 15px !important;
+    width: 45% !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #btn2{
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .mobview{
+    color:'black';
+    font-size: 75.6px !important;
+    line-height: 75.6px !important;
+    font-weight: 400;
+    
+  }
+  #btn{
+    font-size: 20px !important;
+    margin-bottom: 0px !important;
+  }
+  #btn1{
+    font-size: 20px !important;
+    margin-bottom: 0px !important;
+  
+  }
+  #text1{
+    font-size: 50px !important;
+  }
+  #text2{
+    font-size: 20px !important;
+    margin-bottom: 0px;
+  }
+  #img1{
+      width: 100% !important;
+      height: 430px;
+  }
+
+  #img2{
+    margin-top: 30px !important;
+  }
+  #view{
+    margin-top: 10px !important;
+    height: 70px !important;
+  }
+  #view1{
+    padding: 20px !important;
+  }
+  #view2{
+    padding: 20px !important;
+   
+  }
+  #view3{
+    padding: 20px !important;
+    
+  }
+  #view21{
+    font-size: 10px !important;
+  }
+  .text6{
+    font-size: 16px !important;
+  }
+  .btn6{
+    padding: 10px !important;
+    font-size: 20px !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .text7{
+    font-size: 66px !important;
+    margin-left: 0% !important;
+  }
+  .spacing{
+    margin-left: 0px !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #mr{
+    width: 10% !important;
+  }
+  
+}
+@media screen and (max-width: 1400px) {
+ #text22{
+   font-size: 60.06px !important;
+  }
+  .btn100{
+    font-size: 10px !important;
+    padding: 10px !important;
+  }
+
+  .offer1img{
+    height: 70px !important;
+    width: 15% !important;
+  }
+  .offer1text{
+    font-size: 20px !important;
+  }
+}
+@media screen and (max-width: 900px) {
+  .btn56{
+    width: 50% !important;
+    padding: 10px !important;
+  }
+  .offer1img{
+    width: 10% !important;
+  }
+  .offer1text{
+    font-size: 25px !important;
+  }
+}
+@media screen and (max-width: 440px) {
+  .btn56{
+    width: 50% !important;
+    padding: 10px !important;
+    font-size: 20px !important;
+  }
+  .offer1img{
+    width: 20% !important;
+  }
+  .offer1text{
+    font-size: 13px !important;
+  }
+}
+ .gallery-img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 10px;
+    }
+    @media screen and (max-width: 450px) {
+      .mobimg{
+        width: 50% !important;
+      }
+    }
+    @media screen and (max-width: 1400px) {
+      #info1{
+        font-size: 60px !important;
+        
+      }
+
+    }
+    @media screen and (max-width: 1400px) {
+      #logo{
+        margin-top: 10px !important;
+        
+      }
+      #social-links{
+        margin-top: 10px !important;
+        
+      }
+      #info{
+        margin-top: 27px !important;
+        
+      }
+      #info4{
+        font-size: 15px !important;
+      }
+      #info2{
+        font-size: 15px !important;
+      }
+      #info3{
+        font-size: 15px !important;
+      }
+    }
+    @media screen and (max-width: 450px) {
+      .mobimg{
+        width: 50% !important;
+      }
+    }
